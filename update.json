@@ -2,5 +2,5 @@
   "version": "0.1.2",
   "notes": "新增：\n1.画布组件支持通过@调用传入组件\n\n修复：\n1. 修复画布组件下拉列表显示层级问题\n2. 修复画布组件缩放抖动",
   "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.1/QYLiteCli_0.1.2_x64-setup.exe",
-  "size": 11035648
+  "size": 6691990
 }
