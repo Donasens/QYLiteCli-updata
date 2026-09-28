@@ -1,6 +1,6 @@
 {
   "version": "0.1.1",
-  "notes": "1.添加自动更新",
-  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.1/QYLiteCli_0.1.0_x64-setup.exe",
-  "size": 6687373
+  "notes": "新功能：\n1. 自动更新：启动时自动检测新版本\n2. 画布 Base URL 锁定为小清API专用地址，新增「获取密钥」按钮一键跳转浏览器获取\n3. 修改记录：初始化 Git 或提交时自动检测用户信息，缺失时弹输入框填写后自动重试\n\n修复：\n1. 修改记录不再显示父级 Git 仓库，只显示当前工作区自己的仓库\n2. 获取密钥按钮无法打开浏览器的问题\n3. 画布模型设置弹窗被左上角切换按钮遮挡的问题\n4. GitHub API 限流时更新检测静默失败的问题，新增备用检测通道",
+  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.1/QYLiteCli_0.1.1_x64-setup.exe",
+  "size": 11035648
 }
