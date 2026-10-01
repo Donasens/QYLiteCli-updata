@@ -1,6 +1,6 @@
 {
-  "version": "0.1.3",
-  "notes": "新功能：\n1. 文件编辑器新增 Markdown 浏览模式：打开 .md 文件默认进入预览，支持「原文 / 分屏 / 浏览」三种视图切换，分屏模式下源码与预览滚动位置双向同步\n2. 画布新增从连线拖拽、右键菜单快速创建组件，拖拽线条到空白处即可挂载新节点\n3. 画布 @ 提及失效高亮：连线取消后，引用了该节点的卡片会标红提示\n4. 新增 Gitee 作为应用更新检测渠道，GitHub 访问受限时仍可正常检测更新\n\n优化：\n1. 画布 @ 组件提及交互与生成逻辑优化\n2. CLI 界面布局调整，标题栏与中心面板样式更紧凑",
-  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.3/QYLiteCli_0.1.3_x64-setup.exe",
+  "version": "0.1.5",
+  "notes": "修复：\n1. 设置界面中模型选择下拉列表无法点击的问题\n2. 设置的默认模型重启后丢失的问题\n\n优化：\n1. 文本卡片显示效果优化\n2. 设置弹窗交互优化\n3. 画布按钮布局调整\n4. 工作区会话记录加载性能优化",
+  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.5/QYLiteCli_0.1.5_x64-setup.exe",
   "size": 6691990
 }
