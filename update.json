@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "notes": "修复：\n1. 设置界面中模型选择下拉列表无法点击的问题\n2. 设置的默认模型重启后丢失的问题\n\n优化：\n1. 文本卡片显示效果优化\n2. 设置弹窗交互优化\n3. 画布按钮布局调整\n4. 工作区会话记录加载性能优化",
-  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.5/QYLiteCli_0.1.5_x64-setup.exe",
+  "version": "0.1.6",
+  "notes": "新功能：\n1. 视频资源接入支持\n2. 视频首帧提取可视化\n3. 画布资源日期分类展示\n\n优化：\n1. 资源管理器交互优化",
+  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.6/QYLiteCli_0.1.6_x64-setup.exe",
   "size": 6691990
 }
