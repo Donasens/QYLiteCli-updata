@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
-  "notes": "新功能：\n1. 视频资源接入支持\n2. 视频首帧提取可视化\n3. 画布资源日期分类展示\n\n优化：\n1. 资源管理器交互优化",
-  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.6/QYLiteCli_0.1.6_x64-setup.exe",
-  "size": 6691990
+  "version": "0.1.7",
+  "notes": "知识库功能仍在测试阶段\n目前仅支持claude、opencode、codex、grok四种cli直接调用mcp\n例如直接自然语言查询知识库，或者使用对应的/mcp指令\n\n新功能：\n1. 新增知识库工作区，支持知识库创建、切换和文件树管理\n2. 新增知识图谱，可视化展示文档关联关系，支持搜索、拖拽布局和节点筛选\n3. 新增知识库 MCP 接入，AI 会话可检索和使用知识库内容\n4. 新增 Markdown 文档编辑、保存和多标签页浏览\n\n修复：\n1. 修复知识库文件变化后图谱和文档内容同步不及时的问题\n2. 修复文档编辑器快捷保存和编辑器上下文菜单相关问题\n\n优化：\n1. 优化知识库扫描、刷新和文件监听流程\n2. 优化画布资源管理、视频首帧提取和资源日期分类展示",
+  "url": "https://github.com/Donasens/QYLiteCli-updata/releases/download/v0.1.7/QYLiteCli_0.1.7_x64-setup.exe",
+  "size": 10243681
 }
